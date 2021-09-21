@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&family=Karla&display=swap');
+
+html {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Karla', sans-serif;
+    overflow-x: hidden;
+    color: #54575A;
+    background: linear-gradient(180deg, #FFFFFF 0%, #F3F8F7 49.91%, #FFF9F5 94.19%);
+    
+} 
+
+.wrapper {
+    position: relative;
+    width: 1440px;
+    height: 1379px;
+    margin: auto;
+}
+
+.brand-img {
+    position: absolute;
+    width: 200.93px;
+    height: 47px;
+    left: 646px;
+    top: 80px;
+}
+
+.title {
+    position: absolute;
+    width: 710px;
+    height: 120px;
+    left: 393px;
+    top: 199px;
+
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 70px;
+    /* or 109% */
+
+    text-align: center;
+    font-feature-settings: 'liga' off;
+}
+
+.text-dif {
+    color: #A23607;
+}
+.text{
+    position: absolute;
+    width: 382px;
+    height: 92px;
+    left: 565px;
+    top: 380px;
+
+    font-family: Karla;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+    /* or 169% */
+
+    text-align: justify;
+}
+
+.app-store-btn {
+    position: absolute;
+    width: 138.44px;
+    height: 46.28px;
+    left: 585px;
+    top: 510px;
+}
+.app-store-btn img {
+    width: 138.44px;
+    height: 46.28px;
+}
+
+.google-play-btn{
+    position: absolute;
+    width: 156.19px;
+    height: 46.28px;
+    left: 745.81px;
+    top: 510px;
+}
+
+.google-play-btn img {
+    width: 156.19px;
+    height: 46.28px;
+}
+
+.main-image-container{
+    position: absolute;
+    width: 327px;
+    height: 653.55px;
+    left: 211px;
+    top: 642px;
+}
+
+.main-image-container img{
+    width: 327px;
+    height: 653.55px;
+}
+
+.profile-img{
+    position: absolute;
+    left: 67.08%;
+    right: 22.65%;
+    top: 904px;
+    bottom: 15.17%;
+    width: 170.8px;
+    height: 300.47px
+    
+}
+
+
+.onboarding1-img {
+    position: absolute;
+    left: 54.44%;
+    right: 35.29%;
+    top: 1148px;
+    bottom: -3.85%;
+    width: 170.8px;
+    height: 238.47px
+   
+}
+
+
+.welcome-ob-img{
+    position: absolute;
+    left: 966px;
+    right: 22.65%;
+    top: 1203px;
+    bottom: -7.81%;
+    width: 170.8px;
+    height: 184.23px;
+    
+}
+
+
+.cart-img{
+    position: absolute;
+    left: 79.72%;
+    right: 10.01%;
+    top:   1148px;
+    bottom: -1.62%;
+    width: 170.8px;
+    height: 238.47px
+    
+}
+
+
+.illustration1-img{
+    position: absolute;
+    width: 254x;
+    height: 506px;
+    left: 725px;
+    top: 834px;
+    
+}
+
